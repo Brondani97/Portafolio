@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gimnasio", "Gimnasio\Gimnasio.csproj", "{05CBE540-BEFD-4EF8-879C-3A5F43003C03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05CBE540-BEFD-4EF8-879C-3A5F43003C03}.Debug|x86.ActiveCfg = Debug|x86
+		{05CBE540-BEFD-4EF8-879C-3A5F43003C03}.Debug|x86.Build.0 = Debug|x86
+		{05CBE540-BEFD-4EF8-879C-3A5F43003C03}.Release|x86.ActiveCfg = Release|x86
+		{05CBE540-BEFD-4EF8-879C-3A5F43003C03}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9EFDA8C-00A9-48F7-8DF3-01ED7BE7B27E}
+	EndGlobalSection
+EndGlobal

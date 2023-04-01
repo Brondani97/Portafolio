@@ -1,0 +1,2 @@
+Colocar aqui los mensajes para ser enviados.
+Cada mensaje es una linea de este archivo.
