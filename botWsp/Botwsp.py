@@ -3,11 +3,10 @@ import pyautogui as pg
 import webbrowser
 from time import sleep
 import time
-
 import pandas as pd
 
 
-data = pd.read_csv("clientes.txt", header=None)
+data = pd.read_csv("telefonos.txt", header=None)
 
 for i in range(len(data)):
 
@@ -21,6 +20,8 @@ for i in range(len(data)):
         for line in file:
             pyautogui.typewrite(line)
             pyautogui.press("enter")
+
+
 
     time.sleep(7)
     pg.hotkey('ctrl', 'w')  # Cerrar la pestaña

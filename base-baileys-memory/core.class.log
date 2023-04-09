@@ -1,0 +1,279 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493435038396@s.whatsapp.net',
+    fromMe: false,
+    id: 'AACBE146DB74D72FA60959575C6F0747',
+    participant: undefined
+  },
+  messageTimestamp: 1680993145,
+  pushName: 'Fernando',
+  message: Message {
+    audioMessage: AudioMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.7117-24/56156416_132713846326428_62309746427763681_n.enc?ccb=11-4&oh=01_AdS50Q9b7-nPlfPODRIpNOwYKZAqDg_j7iv6j4EqFHApmQ&oe=64597797&mms3=true',
+      mimetype: 'audio/ogg; codecs=opus',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      seconds: 3,
+      ptt: true,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7117-24/56156416_132713846326428_62309746427763681_n.enc?ccb=11-4&oh=01_AdS50Q9b7-nPlfPODRIpNOwYKZAqDg_j7iv6j4EqFHApmQ&oe=64597797',
+      mediaKeyTimestamp: [Long],
+      waveform: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_voice_note__a19f4181-7887-48eb-99f9-6cee2b7ce6a9',
+  from: '5493435038396'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493435038396@s.whatsapp.net',
+    fromMe: false,
+    id: '6F5FC8B4A0CFC83DD39BAD9BB59C6D94',
+    participant: undefined
+  },
+  messageTimestamp: 1680993366,
+  pushName: 'Fernando',
+  message: Message {
+    audioMessage: AudioMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.7117-24/19937023_618878943148867_6954873127191169343_n.enc?ccb=11-4&oh=01_AdSyGG29dINWwPWK632VZBT2dvcTTqFbXGOiso7F2kniqw&oe=64596369&mms3=true',
+      mimetype: 'audio/ogg; codecs=opus',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      seconds: 1,
+      ptt: true,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7117-24/19937023_618878943148867_6954873127191169343_n.enc?ccb=11-4&oh=01_AdSyGG29dINWwPWK632VZBT2dvcTTqFbXGOiso7F2kniqw&oe=64596369',
+      mediaKeyTimestamp: [Long],
+      waveform: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_voice_note__f858d2b8-df2e-4ab6-a718-c2b57333300e',
+  from: '5493435038396'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493435038396@s.whatsapp.net',
+    fromMe: false,
+    id: '6487BC0D3618C31826F465A14D1F7E86',
+    participant: undefined
+  },
+  messageTimestamp: 1680993488,
+  pushName: 'Fernando',
+  message: Message {
+    audioMessage: AudioMessage {
+      url: 'https://mmg.whatsapp.net/v/t62.7117-24/35487398_1290785151783181_5953409250443629528_n.enc?ccb=11-4&oh=01_AdS61r7rVaY5ndaVXGA9cJULJasfl64nyeLHZbBt-s2BZQ&oe=64594D93&mms3=true',
+      mimetype: 'audio/ogg; codecs=opus',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      seconds: 9,
+      ptt: true,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/v/t62.7117-24/35487398_1290785151783181_5953409250443629528_n.enc?ccb=11-4&oh=01_AdS61r7rVaY5ndaVXGA9cJULJasfl64nyeLHZbBt-s2BZQ&oe=64594D93',
+      mediaKeyTimestamp: [Long],
+      waveform: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '_event_voice_note__e93681cb-a0b8-46dd-b0e9-3ec35bf3e957',
+  from: '5493435038396'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493435038396@s.whatsapp.net',
+    fromMe: false,
+    id: 'BACE3FB7078E7251BF824E5351F0CCD3',
+    participant: undefined
+  },
+  messageTimestamp: 1680993513,
+  pushName: 'Fernando',
+  message: Message {
+    conversation: 'Mariano se la come',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Mariano se la come',
+  from: '5493435038396'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493434727632@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0001862D70E45AFB473',
+    participant: undefined
+  },
+  messageTimestamp: 1680994111,
+  pushName: 'GoodLife',
+  message: Message {
+    conversation: 'as',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'as',
+  from: '5493434727632'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493434727632@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0135B848B7F3D252074',
+    participant: undefined
+  },
+  messageTimestamp: 1680994120,
+  pushName: 'GoodLife',
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    buttonsResponseMessage: ButtonsResponseMessage {
+      selectedButtonId: 'id-btn-1',
+      selectedDisplayText: 'información',
+      contextInfo: [ContextInfo],
+      type: 1
+    }
+  },
+  body: 'información',
+  from: '5493434727632'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493434727632@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB085821BF8FF97CD1D5E',
+    participant: undefined
+  },
+  messageTimestamp: 1680994181,
+  pushName: 'GoodLife',
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    buttonsResponseMessage: ButtonsResponseMessage {
+      selectedButtonId: 'id-btn-0',
+      selectedDisplayText: 'Candidatos',
+      contextInfo: [ContextInfo],
+      type: 1
+    }
+  },
+  body: 'Candidatos',
+  from: '5493434727632'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493434727632@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0581A06DBD99544173C',
+    participant: undefined
+  },
+  messageTimestamp: 1680994202,
+  pushName: 'GoodLife',
+  message: Message {
+    conversation: 'as',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'as',
+  from: '5493434727632'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493434727632@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0C321C29C17F0E44B07',
+    participant: undefined
+  },
+  messageTimestamp: 1680994202,
+  pushName: 'GoodLife',
+  message: Message {
+    conversation: 'as',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'as',
+  from: '5493434727632'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493434727632@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0412D35E5F8249966F3',
+    participant: undefined
+  },
+  messageTimestamp: 1680994203,
+  pushName: 'GoodLife',
+  message: Message {
+    conversation: 'sa',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'sa',
+  from: '5493434727632'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493434727632@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB06E2020992226C68A05',
+    participant: undefined
+  },
+  messageTimestamp: 1680994203,
+  pushName: 'GoodLife',
+  message: Message {
+    conversation: 'as',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'as',
+  from: '5493434727632'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '5493434727632@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0A5D0D9C080DBDF088D',
+    participant: undefined
+  },
+  messageTimestamp: 1680994211,
+  pushName: 'GoodLife',
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    buttonsResponseMessage: ButtonsResponseMessage {
+      selectedButtonId: 'id-btn-0',
+      selectedDisplayText: 'Candidatos',
+      contextInfo: [ContextInfo],
+      type: 1
+    }
+  },
+  body: 'Candidatos',
+  from: '5493434727632'
+}
